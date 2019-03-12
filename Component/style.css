@@ -1,0 +1,45 @@
+.judul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.containerjudul {
+    height: 150px;
+}
+
+.container {
+    height: 300px;
+}
+
+.col-4 {
+    height: 650px;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #fefeff;
+    border-radius: .3rem;
+}
+
+.mediasocial {
+    margin-top: 10px;
+    width: 1000px;
+    margin-bottom: 50px;
+}
+
+.containerjudulmedsos {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.containermedsos {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.containergrid {
+    height: 660px;
+}
